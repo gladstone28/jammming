@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/jammming/static/css/main.23a55c73.css",
+    "main.js": "/jammming/static/js/main.e9ca415c.js",
+    "index.html": "/jammming/index.html",
+    "main.23a55c73.css.map": "/jammming/static/css/main.23a55c73.css.map",
+    "main.e9ca415c.js.map": "/jammming/static/js/main.e9ca415c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.23a55c73.css",
+    "static/js/main.e9ca415c.js"
+  ]
+}
